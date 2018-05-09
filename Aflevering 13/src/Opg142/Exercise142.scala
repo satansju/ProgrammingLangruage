@@ -6,7 +6,7 @@ object Exercise142 {
   def main(args: Array[String]) = {
 
     /**
-      * Lists.
+      * This is no list. It is a T+-List.
       */
     sealed abstract class List[+T] {
 
