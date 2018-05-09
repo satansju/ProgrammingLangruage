@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="193b585d-a105-46bd-8dce-bcb33ffe4891" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>???</find>
+      <find>lambda</find>
+      <find>Lambdal</find>
+      <find>Enter</find>
+      <find>lookup</find>
+      <find>defs</find>
+      <find>IdDesc</find>
+      <find>idstack</find>
+      <find>compile</find>
+      <find>Lambda</find>
+      <find>Executable</find>
+      <find>Call</find>
+      <find>arity</find>
+      <find>While</find>
+      <find>EnterDefs</find>
+      <find>vals</find>
+      <find>println</find>
+      <find>vars</find>
+      <find>Alloc</find>
+      <find>varE</find>
+      <find>popInt</find>
+      <find>time(</find>
+      <find>BlockE</find>
+      <find>val body</find>
+      <find>call</find>
+      <find>Call(a</find>
+      <find>var</find>
+      <find>expsc</find>
+      <find>true</find>
+      <find>And</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ScalaProject" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ScalaProject/src/src/miniscala/TypeChecker" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/src/miniscala/Unparser.scala" />
+        <option value="$PROJECT_DIR$/examples/even.s" />
+        <option value="$PROJECT_DIR$/examples/sqrt1.s" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/src/miniscala/Test49.scala" />
+        <option value="$PROJECT_DIR$/examples/sqrt4.s" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/src/miniscala/IntList.scala" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/src/miniscala/parser/Parser.scala" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/src/miniscala/package.scala" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/src/miniscala/TypeChecker copy.scala" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/src/miniscala/TypeChecker_copy.scala" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/src/miniscala/INterp2.scala" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/src/miniscala/Ast.scala" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/src/miniscala/Main.scala" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/src/miniscala/Test69.scala" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/src/miniscala/Set.scala" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/src/miniscala/Interpreter.scala" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/src/miniscala/Lambda.scala" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/src/miniscala/TypeChecker.scala" />
+        <option value="$PROJECT_DIR$/../Aflevering 8/Aflevering 4/ScalaProject/src/miniscala/Lambda.scala" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/miniscala/Ast.scala" />
+        <option value="$PROJECT_DIR$/examples/calc1.s" />
+        <option value="$PROJECT_DIR$/examples/tak.s" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/miniscala/Unparser.scala" />
+        <option value="$PROJECT_DIR$/examples/calc2.s" />
+        <option value="$PROJECT_DIR$/examples/fac.s" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/miniscala/Main.scala" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/miniscala/Lambda.scala" />
+        <option value="$PROJECT_DIR$/ScalaProject/src/miniscala/Interpreter.scala" />
+        <option value="$PROJECT_DIR$/src/miniscala/Main.scala" />
+        <option value="$PROJECT_DIR$/src/miniscala/Unparser.scala" />
+        <option value="$PROJECT_DIR$/src/miniscala/Test95.scala" />
+        <option value="$PROJECT_DIR$/src/miniscala/Interpreter.scala" />
+        <option value="$PROJECT_DIR$/src/miniscala/package.scala" />
+        <option value="$PROJECT_DIR$/src/miniscala/TypeChecker.scala" />
+        <option value="$PROJECT_DIR$/src/miniscala/AbstractMachine 2.scala" />
+        <option value="$PROJECT_DIR$/src/miniscala/Compiler 2.scala" />
+        <option value="$PROJECT_DIR$/src/miniscala/Test102.scala" />
+        <option value="$PROJECT_DIR$/src/miniscala/Options.scala" />
+        <option value="$PROJECT_DIR$/src/miniscala/Compiler.scala" />
+        <option value="$PROJECT_DIR$/src/miniscala/AbstractMachine.scala" />
+        <option value="$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Ast 2.scala" />
+        <option value="$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Ast.scala" />
+        <option value="$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/AbstractMachine.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Aflevering 10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aflevering 11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aflevering 10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aflevering 11" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aflevering 10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aflevering 11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aflevering 10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aflevering 11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="miniscala" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="miniscala" />
+      <recent name="src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../Uge 12" />
+      <recent name="$PROJECT_DIR$/../Aflevering 8" />
+      <recent name="$PROJECT_DIR$/.." />
+      <recent name="C:\Users\sataa\Desktop\2. Semester\Programmeringssprog\Afleveringer\Aflevering-4 (2)\Aflevering 4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test102">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Lambda" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="miniscala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="miniscala.Lambda" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Aflevering8" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="miniscala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="miniscala.Main" />
+      <option name="VM_PARAMETERS" value="-Xss100m" />
+      <option name="PROGRAM_PARAMETERS" value="-run examples/calc2.s" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Aflevering8" />
+      <envs />
+    </configuration>
+    <configuration name="Test102" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="miniscala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="miniscala.Test102" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Aflevering 10" />
+      <envs />
+    </configuration>
+    <configuration name="Test95" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="miniscala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="miniscala.Test95" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Aflevering8" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Aflevering 1" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Lambda" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test95" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test102" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Test102" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test95" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Lambda" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SCALA_SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="193b585d-a105-46bd-8dce-bcb33ffe4891" name="Default" comment="" />
+      <created>1518533485399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518533485399</updated>
+      <workItem from="1519636951527" duration="4835000" />
+      <workItem from="1519667638888" duration="38000" />
+      <workItem from="1519667759326" duration="4125000" />
+      <workItem from="1519722005083" duration="11000" />
+      <workItem from="1519805672133" duration="3506000" />
+      <workItem from="1519817912364" duration="10877000" />
+      <workItem from="1519831770153" duration="54000" />
+      <workItem from="1519834020637" duration="11000" />
+      <workItem from="1519834074411" duration="1000" />
+      <workItem from="1519834078036" duration="3831000" />
+      <workItem from="1519837978258" duration="248000" />
+      <workItem from="1519838568895" duration="2698000" />
+      <workItem from="1519846131380" duration="980000" />
+      <workItem from="1519904834453" duration="913000" />
+      <workItem from="1519908482712" duration="361000" />
+      <workItem from="1520256205990" duration="1012000" />
+      <workItem from="1520680955080" duration="2199000" />
+      <workItem from="1520856406095" duration="33000" />
+      <workItem from="1520856643703" duration="43000" />
+      <workItem from="1520868806522" duration="1454000" />
+      <workItem from="1520940362141" duration="5614000" />
+      <workItem from="1520956785895" duration="1010000" />
+      <workItem from="1520957801739" duration="397000" />
+      <workItem from="1520975274280" duration="366000" />
+      <workItem from="1521011186857" duration="850000" />
+      <workItem from="1521017961751" duration="6878000" />
+      <workItem from="1521024860183" duration="140000" />
+      <workItem from="1521029336484" duration="2483000" />
+      <workItem from="1521551932349" duration="10825000" />
+      <workItem from="1521619987578" duration="5664000" />
+      <workItem from="1521656006360" duration="4801000" />
+      <workItem from="1522276053054" duration="1000" />
+      <workItem from="1522276608348" duration="14000" />
+      <workItem from="1522276666665" duration="82000" />
+      <workItem from="1522276937880" duration="364000" />
+      <workItem from="1522565145709" duration="1028000" />
+      <workItem from="1522580449921" duration="967000" />
+      <workItem from="1522757912157" duration="7539000" />
+      <workItem from="1522767633835" duration="76000" />
+      <workItem from="1522825841997" duration="2412000" />
+      <workItem from="1522830579564" duration="2984000" />
+      <workItem from="1522844504432" duration="8935000" />
+      <workItem from="1522913723041" duration="6000" />
+      <workItem from="1522915017208" duration="437000" />
+      <workItem from="1522928643668" duration="1062000" />
+      <workItem from="1523284124653" duration="3444000" />
+      <workItem from="1523290187082" duration="2598000" />
+      <workItem from="1523352220513" duration="634000" />
+      <workItem from="1523362418267" duration="5734000" />
+      <workItem from="1523433935380" duration="1262000" />
+      <workItem from="1523519414634" duration="536000" />
+      <workItem from="1523520018052" duration="6494000" />
+      <workItem from="1523712146431" duration="6000" />
+      <workItem from="1523712270093" duration="952000" />
+      <workItem from="1523881396646" duration="4429000" />
+      <workItem from="1524401374905" duration="338000" />
+      <workItem from="1524401798580" duration="51000" />
+      <workItem from="1524471900501" duration="12023000" />
+      <workItem from="1524645997257" duration="120000" />
+      <workItem from="1524730173800" duration="566000" />
+      <workItem from="1525090687920" duration="706000" />
+      <workItem from="1525091606636" duration="2111000" />
+      <workItem from="1525098397873" duration="2049000" />
+      <workItem from="1525179648237" duration="19000" />
+      <workItem from="1525179686689" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="158186000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913166" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18384402" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2044818" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32729805" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21816881" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39724138" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3207283" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21816881" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32212886" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20677146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18384402" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32729805" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="26" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="tenv" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Compiler.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Test102.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Main.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/TypeChecker.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/AbstractMachine.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Test102.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/TypeChecker.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Compiler.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Test102.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/AbstractMachine.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/TypeChecker.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Compiler.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Test102.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/AbstractMachine.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Interpreter.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/TypeChecker.scala" />
+    <entry file="file://$PROJECT_DIR$/src/miniscala/AbstractMachine 2.scala" />
+    <entry file="file://$PROJECT_DIR$/src/miniscala/Compiler 2.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Main.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Test102.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/AbstractMachine.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Compiler.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/TypeChecker.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/AbstractMachine.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Test102.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Main.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Compiler.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/TypeChecker.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/AbstractMachine.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Test102.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/TypeChecker.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Compiler.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Test102.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/AbstractMachine.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/TypeChecker.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Compiler.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Test102.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/AbstractMachine.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Interpreter.scala" />
+    <entry file="file://$PROJECT_DIR$/src/miniscala/AbstractMachine 2.scala" />
+    <entry file="file://$PROJECT_DIR$/src/miniscala/Compiler 2.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/parser/Parser.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Main.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/TypeChecker.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Test102.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Options.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Ast 2.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Interpreter 2.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Ast.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/Compiler.scala" />
+    <entry file="file://$PROJECT_DIR$/../../Uge 12/Aflevering 11/src/miniscala/AbstractMachine.scala" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Aflevering 10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-parser-combinators_2.12-1.0.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
