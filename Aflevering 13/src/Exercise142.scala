@@ -59,9 +59,17 @@ object Exercise142 {
           xs().foreach(f)
       }
 
-      def filter(p: T => Boolean): Stream[T] = ???
+      def filter(p: T => Boolean): Stream[T] = this match{
+        case SNil => SNil
+        case SCons(x, xs) =>
+          if(p(x())) SCons(x, () => xs().filter(p))
+          else xs().filter(p)
+      }
 
-      def zip[U](ys: Stream[U]): Stream[(T, U)] = ???
+      def zip[U](ys: Stream[U]): Stream[(T, U)] = (this, ys) match{
+        case (SNil,_) | (_,SNil) => SNil
+        case (SCons(x, xs),SCons(z,zs)) => SCons(() => (x(),z()),() => xs().zip(zs()))
+      }
 
       def take(n: Int): Stream[T] =
         if (n == 0) SNil else SCons(() => head(), () => tail().take(n - 1))
